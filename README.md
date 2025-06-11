@@ -60,3 +60,9 @@ This project helped develop practical skills in:
 ## Visuals
 ### Dashboard
 ![Dashboard](Dashboard.PNG)
+
+### KPI 3
+![KPI 3](kpi_3.PNG)
+
+### KPI 2
+![KPI 2](kpi_2.PNG)
