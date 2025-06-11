@@ -58,3 +58,5 @@ This project helped develop practical skills in:
 
 ---
 ## Visuals
+### Dashboard
+![Dashboard](Dashboard.PNG)
