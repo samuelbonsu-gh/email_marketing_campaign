@@ -57,14 +57,4 @@ This project helped develop practical skills in:
 - Making strategic recommendations based on data
 
 ---
-
-## 📎 File
-
-- PowerPoint presentation included in this repository: `https://github.com/samuelbonsu-gh/email_marketing_campaign/blob/main/Email%20Marketing%20Campaign..pptx`
-
----
-
-## 🔗 Connect with Me
-
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/samuel-kwadwo-boateng-bonsu-586736352) or reach out if you'd like to discuss this project or similar work.
-
+## Visuals
