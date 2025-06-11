@@ -60,11 +60,11 @@ This project helped develop practical skills in:
 
 ## 📎 File
 
-- PowerPoint presentation included in this repository: `Email_Marketing_Campaign_Q1_2023.pptx`
+- PowerPoint presentation included in this repository: `https://github.com/samuelbonsu-gh/email_marketing_campaign/blob/main/Email%20Marketing%20Campaign..pptx`
 
 ---
 
 ## 🔗 Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or reach out if you'd like to discuss this project or similar work.
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/samuel-kwadwo-boateng-bonsu-586736352) or reach out if you'd like to discuss this project or similar work.
 
