@@ -66,3 +66,7 @@ This project helped develop practical skills in:
 
 ### KPI 2
 ![KPI 2](kpi_2.PNG)
+
+## 🔒 Notes
+This project is based on my internship work with Digital Echoes. The data presented has been summarized to comply with confidentiality agreements.
+
